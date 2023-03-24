@@ -1,0 +1,26 @@
+#titulo {
+    background-color: black;
+    color: rgb(88, 16, 155);
+}
+
+#vencedor {
+    background-color: black;
+    color: #8605ff;
+}
+
+
+.player-options img,
+.enemy-options img{
+max-width: 200px;
+opacity: 0.3;
+cursor: pointer;
+
+}
+
+.player-options,.enemy-options{
+    width:50%;
+}
+
+.align{
+    display: flex;
+}
