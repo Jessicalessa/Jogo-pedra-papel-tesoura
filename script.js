@@ -3,7 +3,7 @@ var playerOpt = "";
 var inimigoOpt = "";
 
 
-
+function validarVitoria(){
 
 let vencedor = document.querySelector('.vencedor');
         
